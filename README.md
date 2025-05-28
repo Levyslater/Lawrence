@@ -1,6 +1,6 @@
 # Hi there, I'm Lawrence! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/uc?export=view&id=1vH7Q5yf1_c-oh0hL84Wlh_UTl_Ehv8JM)
 
 ## About Me 🚀
 
