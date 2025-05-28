@@ -27,7 +27,7 @@ I'm a passionate **Software Engineer** with experience in **Python & MySQL**. I 
 
 ### [Simple Shell Project](https://github.com/Levyslater/simple_shell)
 
-![Project 1 Screenshot](https://prnt.sc/om2eBFZmOScE)
+![Project 1 Screenshot](https://drive.google.com/uc?export=view&id=19iZLVirSJ8SrNjlqED0nTHVWeEtPxPkQ)
 
 **Simple Shell** is a **custom implementation of the Unix shell,** built in **C** as part of the ALX Software Engineering program. This project showcases my ability to **work with low-level programming concepts, process management, and command-line tools. It also demonstrates my scripting proficiency in Bash**. You can check out the repository [here](https://github.com/Levyslater/simple_shell).
 
