@@ -33,7 +33,8 @@ I'm a passionate **Software Engineer** with experience in **Python & MySQL**. I 
 
 ### [AirBnB Clone](https://github.com/Levyslater/AirBnB_clone_v4)
 
-![Project 2 Screenshot](https://drive.google.com/file/d/1qg6sA0pajm0bLtVAiarPlBsuuWxQ0x-6/view?usp=drive_link)
+![Project 2 Screenshot](https://drive.google.com/uc?export=view&id=1qg6sA0pajm0bLtVAiarPlBsuuWxQ0x-6)
+
 
 **AirBnB Clone** is a **web-based clone of the original AirBnB platform,** developed using **Python and MySQL.** This project highlights my skills in **object-oriented programming, database integration, RESTful API design, and front-end/back-end collaboration.** **It reflects my ability to build scalable web applications from the ground up.** You can check out the repository [here](https://github.com/Levyslater/AirBnB_clone_v4).
 
